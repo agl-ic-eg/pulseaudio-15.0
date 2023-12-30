@@ -7,6 +7,7 @@ all_modules = [
   [ 'module-allow-passthrough', 'module-allow-passthrough.c' ],
   [ 'module-always-sink', 'module-always-sink.c' ],
   [ 'module-always-source', 'module-always-source.c' ],
+  [ 'module-attenuate', 'module-attenuate.c' ],
   [ 'module-augment-properties', 'module-augment-properties.c' ],
 #  [ 'module-bonjour-publish', 'macosx/module-bonjour-publish.c' ],
   [ 'module-card-restore', 'module-card-restore.c' ],
